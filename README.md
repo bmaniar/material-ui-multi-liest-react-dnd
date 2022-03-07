@@ -1,4 +1,4 @@
-# material-ui-multi-list-react-dnd
+# React DND multilist with Material UI
 
 A small POC around react-dnd multi list with material UI.
 
